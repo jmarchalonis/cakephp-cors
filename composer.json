@@ -1,5 +1,5 @@
 {
-    "name": "ozee31/cakephp-cors",
+    "name": "jmarchalonis/cakephp-cors",
     "description": "A CakePHP (3.3.x) plugin for activate cors domain in your application",
     "type": "cakephp-plugin",
     "require": {
